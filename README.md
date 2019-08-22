@@ -1,70 +1,22 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/yandeu/phaser-project-template-es6#readme"><img src="readme/header-es6.png" alt="header" width="600"></a>
-  <br>
-  Phaser 3 ES6 Starter Template
+  Hotpot
   <br>
 </h1>
 
 <h4 align="center">
-A starter template for <a href="https://phaser.io/" target="_blank" >Phaser 3</a> with <strong>ES6</strong> and <a href="https://webpack.js.org/" target="_blank" >webpack</a> for building excellent html5-games that work great in the browser and on mobile devices.</h4>
+A html5 game
+</h4>
 
-<p align="center">
-  <a href="https://david-dm.org/yandeu/phaser-project-template-es6" title="dependencies status">
-    <img src="https://david-dm.org/yandeu/phaser-project-template-es6/status.svg?style=flat-square"/>
-  </a>
-  <a href="https://opensource.org/licenses/MIT" title="License: MIT" >
-    <img src="https://img.shields.io/badge/License-MIT-greenbright.svg?style=flat-square">
-  </a>
-  <img src="https://img.shields.io/github/package-json/v/yandeu/phaser-project-template-es6.svg?style=flat-square" alt="GitHub package.json version">
-  <img src="https://img.shields.io/github/last-commit/yandeu/phaser-project-template-es6.svg?style=flat-square" alt="GitHub last commit">
-  <a href="https://github.com/prettier/prettier" alt="code style: prettier"><img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square"></a>
-</p>
-
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#preview">Preview</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#progressive-web-app-pwa">PWA</a> •
-  <a href="#native-app">Native App</a> •
-  <a href="#custom-configurations">Custom Configurations</a> •
-  <a href="#typescript">TypeScript</a> •
-  <a href="#useful-links">Useful Links</a> •
-  <a href="#multiplayer-game">Multiplayer Game</a> •
-  <a href="#examples">Examples</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
-
-<blockquote align="center">
- Want to use TypeScript instead? Switch to the <a href="https://github.com/yandeu/phaser-project-template#readme" >phaser-project-template</a>
-</blockquote>
-
----
-
-## Key Features
-
-- **ESNext** features ready (async/await, Rest/Spread operators)
-- Code Splitting
-- Obfuscation
-- Development Server with SourceMap and Live-Reload
-- PWA ready with offline support and "Add to Home screen" install prompt
-- Easy to build Native App using Capacitor
-- Includes Phaser 3 TypeScript typings
-- For development and production builds
-- Adds a webpack ContentHash to the JavaScript files (in production)
-
-## Preview
+## Overview
 
 This is what you get after installing this template. A simple and clean starter template written in ES6+. [Try it!](https://s3.eu-central-1.amazonaws.com/phaser3-typescript/starter-template/index.html)
 
-<a href="https://s3.eu-central-1.amazonaws.com/phaser3-typescript/starter-template/index.html">
-<img src="readme/screenshot.png" width="640" style='border: 0.25em solid #e1e4e8;border-radius: 20px;'/>
-</a>
+<a href="https://etechfocus.github.io/hotpot/dist/">Let's start!</a>
 
 ## How To Use
 
-To clone and run this template, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+From your command line:
 
 ```bash
 # Clone this repository
