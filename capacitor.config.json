@@ -3,5 +3,5 @@
   "appName": "Hotpot",
   "bundledWebRuntime": false,
   "npmClient": "npm",
-  "webDir": "www"
+  "webDir": "dist"
 }
