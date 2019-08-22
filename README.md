@@ -10,9 +10,7 @@ A html5 game
 
 ## Overview
 
-This is what you get after installing this template. A simple and clean starter template written in ES6+. [Try it!](https://s3.eu-central-1.amazonaws.com/phaser3-typescript/starter-template/index.html)
-
-<a href="https://etechfocus.github.io/hotpot/dist/">Let's start!</a>
+You can play it here - <a href="https://etechfocus.github.io/hotpot/dist/">Let's play!</a>
 
 ## How To Use
 
