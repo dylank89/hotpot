@@ -53,6 +53,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
+    "@capacitor/cli": "^1.1.1",
+    "@capacitor/core": "^1.1.1",
     "phaser": "^3.18.1"
   }
 }

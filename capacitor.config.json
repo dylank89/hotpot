@@ -1,0 +1,7 @@
+{
+  "appId": "com.etechfocus.hotpot",
+  "appName": "Hotpot",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
